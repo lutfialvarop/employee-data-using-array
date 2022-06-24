@@ -1,0 +1,16 @@
+D:\C#\ConsoleAppPT\bin\Debug\net5.0\ConsoleAppPT.exe
+D:\C#\ConsoleAppPT\bin\Debug\net5.0\ConsoleAppPT.deps.json
+D:\C#\ConsoleAppPT\bin\Debug\net5.0\ConsoleAppPT.runtimeconfig.json
+D:\C#\ConsoleAppPT\bin\Debug\net5.0\ConsoleAppPT.runtimeconfig.dev.json
+D:\C#\ConsoleAppPT\bin\Debug\net5.0\ConsoleAppPT.dll
+D:\C#\ConsoleAppPT\bin\Debug\net5.0\ref\ConsoleAppPT.dll
+D:\C#\ConsoleAppPT\bin\Debug\net5.0\ConsoleAppPT.pdb
+D:\C#\ConsoleAppPT\obj\Debug\net5.0\ConsoleAppPT.csproj.AssemblyReference.cache
+D:\C#\ConsoleAppPT\obj\Debug\net5.0\ConsoleAppPT.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ConsoleAppPT\obj\Debug\net5.0\ConsoleAppPT.AssemblyInfoInputs.cache
+D:\C#\ConsoleAppPT\obj\Debug\net5.0\ConsoleAppPT.AssemblyInfo.cs
+D:\C#\ConsoleAppPT\obj\Debug\net5.0\ConsoleAppPT.csproj.CoreCompileInputs.cache
+D:\C#\ConsoleAppPT\obj\Debug\net5.0\ConsoleAppPT.dll
+D:\C#\ConsoleAppPT\obj\Debug\net5.0\ref\ConsoleAppPT.dll
+D:\C#\ConsoleAppPT\obj\Debug\net5.0\ConsoleAppPT.pdb
+D:\C#\ConsoleAppPT\obj\Debug\net5.0\ConsoleAppPT.genruntimeconfig.cache
