@@ -67,10 +67,12 @@ namespace ConsoleAppPT
             if (id < 1 || id > 5 )
             {
                 Console.WriteLine($"\nID More Than {ids.Length} / Less Than 0");
+                Console.WriteLine("Add Failed");
                 return;
             } else if (names[id - 1] != null)
             {
                 Console.WriteLine($"\nThere Is A Name On ID {id}. You Can Choose Update");
+                Console.WriteLine("Add Failed");
                 return;
             }
             Console.Write("Name : ");
@@ -89,6 +91,13 @@ namespace ConsoleAppPT
             if (id < 1 || id > 5)
             {
                 Console.WriteLine($"\nID More Than {ids.Length} / Less Than 0");
+                Console.WriteLine("Delete Failed");
+                return;
+            } else if (names[id - 1] == null)
+            {
+                Console.WriteLine($"\nID Not Found");
+                Console.WriteLine("Delete Failed");
+                return;
             }
             names[id - 1] = null;
         }
@@ -117,6 +126,7 @@ namespace ConsoleAppPT
             {
                 Console.WriteLine($"\nName Can't Be The Same {names[id-1]}");
                 Console.WriteLine("Update Failed");
+                return;
             }
             ids[id - 1] = id;
             names[id - 1] = name;
